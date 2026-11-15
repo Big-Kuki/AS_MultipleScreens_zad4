@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">AS_MultipleScreens_zad4</string>
+    <string name="app_name">Losowy wybór</string>
+    <string name="header_main">Lista do losowania</string>
+    <string name="hint_item">Wpisz opcję...</string>
+    <string name="btn_add">Dodaj</string>
+    <string name="btn_draw">Losuj</string>
+    <string name="empty_list">Brak dodanych pozycji</string>
+    <string name="error_empty_input">Wpisz tekst przed dodaniem</string>
+    <string name="error_no_items">Dodaj przynajmniej jedną pozycję!</string>
+
+    <string name="header_result">Wylosowany wynik</string>
+    <string name="btn_back">Wróć</string>
 </resources>
